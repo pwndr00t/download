@@ -27,3 +27,5 @@ function start() {
     });
     saveAs(blob, "studentData.json");
 }
+
+start();
